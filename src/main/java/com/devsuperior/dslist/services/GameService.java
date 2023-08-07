@@ -14,7 +14,7 @@ import com.devsuperior.dslist.projections.GameMinProjection;
 import com.devsuperior.dslist.repositories.GameRepository;
 
 @Service
-public class GameService {
+public class  GameService {
 
 	@Autowired
 	private GameRepository gameRepository;
